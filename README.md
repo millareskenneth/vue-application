@@ -1,6 +1,6 @@
 # vue-application
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is for practice learning only.
 
 ## Recommended IDE Setup
 
